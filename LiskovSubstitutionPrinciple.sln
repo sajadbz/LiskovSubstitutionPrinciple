@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple_E01", "LiskovSubstitutionPrinciple_E01\LiskovSubstitutionPrinciple_E01.csproj", "{A5253E20-8E88-44A9-AB03-B2BEBBF2ADBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple_E02", "LiskovSubstitutionPrinciple_E02\LiskovSubstitutionPrinciple_E02.csproj", "{DE98118B-349D-449B-B3E9-E82F9D52C78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5253E20-8E88-44A9-AB03-B2BEBBF2ADBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5253E20-8E88-44A9-AB03-B2BEBBF2ADBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5253E20-8E88-44A9-AB03-B2BEBBF2ADBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5253E20-8E88-44A9-AB03-B2BEBBF2ADBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE98118B-349D-449B-B3E9-E82F9D52C78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE98118B-349D-449B-B3E9-E82F9D52C78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE98118B-349D-449B-B3E9-E82F9D52C78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE98118B-349D-449B-B3E9-E82F9D52C78B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707A002B-A8EC-40AD-94DE-7380A92DF813}
+	EndGlobalSection
+EndGlobal
